@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+.main {
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    color: white;
+    width: fit-content;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 50px;
+    word-spacing: 40px;
+}
+#day {
+    margin-top: -10%;
+    font-size: 40px;
+}
+
+span {
+    margin-top: 60px;
+    font-size: 80px;
+}
